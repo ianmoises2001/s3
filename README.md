@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Elaborate Train and Predict mode docs arguments (#8137)
